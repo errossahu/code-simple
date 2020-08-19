@@ -1,2 +1,2 @@
-# code-simple
+# react-course-starter
 Created with CodeSandbox
